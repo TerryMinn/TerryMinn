@@ -10,30 +10,13 @@
 
 <br>
 
-## 👾 01 / The human behind the keyboard
-
-### Hey, I'm Terry. 👋
-
-> **I build products and manage the infrastructure behind them.**
-
-I work across **web, mobile, desktop, and backend systems**, with hands-on experience **setting up, deploying, and operating the infrastructure behind them**. I take ownership across application development, server management, and ongoing infrastructure operations.
-
-🚀 Today, I'm an **indie hacker building Rangorithm**, turning ideas into products and staying close to the code.
-
-<img src="./assets/about-timeline.svg" alt="Terry's journey: coding since 2018, junior engineer in 2021, senior engineering roles since 2022, now building Rangorithm. Hands-on, end to end. Toolkit: JavaScript, TypeScript, Go. Build, ship, learn, repeat." width="100%" />
-
-**🌏 REMOTE EXPERIENCE**  
-🇯🇵 Japan &nbsp; · &nbsp; 🇭🇷 Croatia &nbsp; · &nbsp; 🇸🇬 Singapore &nbsp; · &nbsp; 🇰🇷 Korea
-
-<br>
-
-## 🕹️ 02 / Developer loadout
+## 🕹️ Developer loadout
 
 <img src="./assets/stack-focus.svg" alt="JavaScript and Go: strong. TypeScript: core stack. Swift, C# and Kotlin: working knowledge. Focus: React, React Native, Expo, Electron, Node.js, tRPC, NestJS. Operations: VPS, self-hosting, Coolify." width="100%" />
 
 <br>
 
-## 📡 03 / Say hello
+## 📡 Say hello
 
 Interested in product engineering, developer tools, or building something useful? Let's talk.
 
