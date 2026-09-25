@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Terry's journey and configuration</title>
+<desc id="desc">Coding since 2018. Junior engineer in 2021. Senior roles since 2022. Now building Rangorithm. Mindset: hands-on, end to end. Toolkit: JavaScript, TypeScript, Go. Loop: build, ship, learn, repeat.</desc>
+<rect x="1" y="1" width="1198" height="458" rx="10" fill="#14130E" stroke="#514B2D" stroke-width="2"/>
+<path d="M1 48H1199" stroke="#514B2D"/>
+<g fill="#F7DF1E"><rect x="24" y="21" width="8" height="8"/><rect x="40" y="21" width="8" height="8" opacity=".6"/><rect x="56" y="21" width="8" height="8" opacity=".3"/></g>
+<g font-family="monospace">
+<text x="84" y="30" font-size="14" fill="#F7F1D5">terry.config</text>
+<text x="1174" y="30" text-anchor="end" font-size="12" fill="#B0AA91">PERSONAL SYSTEM / v.01</text>
+<text x="30" y="88" font-size="11" fill="#B0AA91" letter-spacing="2">THE JOURNEY SO FAR</text>
+<path d="M44 126H936" stroke="#514B2D" stroke-width="2"/>
+<g fill="#F7DF1E"><rect x="30" y="118" width="16" height="16"/><rect x="325" y="118" width="16" height="16"/><rect x="620" y="118" width="16" height="16"/></g>
+<rect x="915" y="118" width="16" height="16" fill="#14130E" stroke="#F7DF1E" stroke-width="2"/>
+<rect x="920" y="123" width="6" height="6" fill="#F7DF1E"/>
+<g fill="#F7DF1E" font-size="30" font-weight="700">
+<text x="30" y="179">2018</text><text x="325" y="179">2021</text><text x="620" y="179">2022</text><text x="915" y="179">NOW ↗</text>
+</g>
+<g fill="#F7F1D5" font-size="14">
+<text x="30" y="207">Started coding</text><text x="325" y="207">Junior engineer</text><text x="620" y="207">Senior engineering</text><text x="915" y="207">Building Rangorithm</text>
+</g>
+<path d="M30 239H1170" stroke="#3B3826"/>
+<rect x="30" y="268" width="72" height="72" fill="#F7DF1E"/>
+<text x="66" y="312" text-anchor="middle" font-size="25" font-weight="700" fill="#14130E">&gt;_</text>
+<text x="124" y="287" font-size="11" letter-spacing="1.5" fill="#B0AA91">MINDSET</text>
+<text x="124" y="317" font-size="21" font-weight="700" fill="#F7F1D5">Hands-on. End to end.</text>
+<text x="680" y="287" font-size="11" letter-spacing="1.5" fill="#B0AA91">TOOLKIT</text>
+<text x="680" y="317" font-size="19" font-weight="700" fill="#F7F1D5">JavaScript / TypeScript / Go</text>
+<rect x="30" y="370" width="1140" height="60" rx="4" fill="#F7DF1E"/>
+<text x="50" y="406" font-size="12" font-weight="700" fill="#14130E">THE DAILY LOOP</text>
+<text x="1150" y="408" text-anchor="end" font-size="22" font-weight="700" fill="#14130E">BUILD → SHIP → LEARN → REPEAT</text>
+</g>
+</svg>
